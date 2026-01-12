@@ -1,0 +1,48 @@
+/*
+#CCE6F4 - bg
+#97ABB1 - new bg
+#D62839 - red
+#BA324F - dark red
+#175676 - dakr blue
+#4BA3C3 - light blue
+#DEB841 - gold
+*/
+body {
+    background-color: #CCE6F4;
+    color: #DEB841;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.eas {
+    border-radius: 15px;
+    background-color: #D62839;
+    border-width: 0 5px 5px 0px;
+    width: 80%;
+    border-style: solid;
+    border-color: #DEB841;
+    text-align: center;
+    margin: auto;
+    align-content: center;
+}
+.enter {
+    color: #DEB841;
+    background-color: #BA324F;
+    margin: 15px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+.title {
+   padding: 20px; 
+   text-align: center;
+   font-size: 30px;
+   font-weight: 600;
+}
+.sketchpad {
+    display: flex;
+    width: 500px;
+    height: 500px;
+    background-color: #BA324F;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 10px;
+}
